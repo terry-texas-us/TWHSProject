@@ -1,0 +1,12 @@
+Index: desktop.ini
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- desktop.ini	(date 1597241644474)
++++ desktop.ini	(date 1597241644474)
+@@ -0,0 +1,4 @@
++[ViewState]
++Mode=
++Vid=
++FolderType=Generic
